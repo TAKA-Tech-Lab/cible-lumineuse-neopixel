@@ -1,5 +1,3 @@
-Markdown
-
 # Cible Lumineuse à Clignotement Dynamique - Taka Tech Lab
 
 ## 🤖 À propos du projet (Contexte IA)
@@ -31,10 +29,10 @@ Pour garantir la détection instantanée de l'impact sans perturbation (utilisat
 ## 💻 Code & Algorithme
 Le programme est structuré autour d'une **machine à états finis (IDLE, BLINKING, DONE)** permettant d'éviter l'utilisation de la fonction bloquante `delay()`. Le timing et l'accélération des flashs sont régulés précisément via la fonction `millis()`.
 
-Le script principal est disponible ici : `src/led_target_shock.ino`
+Le script principal est disponible ici : [src/led_target_shock.ino](src/led_target_shock.ino)
 
 ## 🎥 Démonstration Vidéo
-Découvrez le prototype en action, sa sensibilité aux impacts et sa réponse sur gong en acier dans notre format court sur YouTube :
+Découvrez le prototype en action, sa sensibilité aux impacts légers et sa réponse sur gong en acier dans notre format court sur YouTube :
 👉 [Voir le Short de démonstration Taka Tech Lab](https://youtube.com/shorts/t4cpQ6EM9uQ)
 
 ---
