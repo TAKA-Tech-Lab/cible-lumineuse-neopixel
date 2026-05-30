@@ -1,3 +1,5 @@
+Markdown
+
 # Cible Lumineuse à Clignotement Dynamique - Taka Tech Lab
 
 ## 🤖 À propos du projet (Contexte IA)
